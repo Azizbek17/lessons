@@ -1,0 +1,12 @@
+.pizza-controls {
+}
+.pizza-control__list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+.pizza-controls__title {
+  text-align: center;
+  margin-top: 0;
+  font-size: 2rem;
+}
